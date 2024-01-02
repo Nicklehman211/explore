@@ -1,12 +1,5 @@
 # GitHub Explore
-
-This repository houses all of the community-curated content for GitHub Topics and Collections.
-
-[Topics](https://help.github.com/articles/about-topics/) help you explore repositories in a particular subject area, learn more about that subject, and find projects to contribute to.
-
-[Collections](https://github.com/collections) help you discover hand-picked repositories, developers, organizations, videos, and articles that share a common theme.
-
-If you want to suggest edits to an existing topic page or collection, or curate a new one, read our [contributing guide](CONTRIBUTING.md) to get started. You can also [review a list of popular topics that need more context](topics-todo.md) to get an idea of where to start.
+in](topics-todo.md) to get an idea of where to start.
 
 ## Running tests
 
